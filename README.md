@@ -7,7 +7,7 @@
 > [!Important]
 > **특징**
 > * Forked from https://github.com/Azure/llmops
-> * Github 프로젝트 템플릿 방식에서 Fork 방식으로 단순화
+> * Github 프로젝트 템플릿 방식에서 Fork 방식으로 단순화  
 > * 각 파이프라인 에서 인프라 프로비저닝 부문 분리
 > * (교육 콘텐츠로 활용 시) 시 인프라 프로비저닝 낭비를 위해 `dev` 1개의 세트만 수행
 > * PR/CI/CD (dev, qa, prod)의 LLMOps Flow는 그대로 실행될 수 있도록 유지
